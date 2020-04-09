@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://master.d3bro2e4bkjxq8.amplifyapp.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-bootstrap" 

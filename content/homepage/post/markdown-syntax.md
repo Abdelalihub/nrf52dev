@@ -16,7 +16,7 @@ categories = [
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 
-banner = "static/banner.PNG"
+
 +++
 
 [Example image](/static/banner.PNG)
